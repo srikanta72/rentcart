@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [14/Apr/2018:19:03:19 +0530] "GET /Spring-MVC/ HTTP/1.1" 200 614 http-bio-8081-exec-1 433
+0:0:0:0:0:0:0:1 - - [14/Apr/2018:19:03:21 +0530] "GET /Spring-MVC/login HTTP/1.1" 200 1570 http-bio-8081-exec-2 318
+0:0:0:0:0:0:0:1 - - [14/Apr/2018:19:08:12 +0530] "POST /Spring-MVC/dologin HTTP/1.1" 200 790 http-bio-8081-exec-4 1455
+0:0:0:0:0:0:0:1 - - [14/Apr/2018:19:08:46 +0530] "GET /Spring-MVC/save-students HTTP/1.1" 200 1216 http-bio-8081-exec-6 260
+0:0:0:0:0:0:0:1 - - [14/Apr/2018:19:09:15 +0530] "POST /Spring-MVC/add-students HTTP/1.1" 200 895 http-bio-8081-exec-8 835
+0:0:0:0:0:0:0:1 - - [14/Apr/2018:19:09:21 +0530] "GET /Spring-MVC/students HTTP/1.1" 200 895 http-bio-8081-exec-10 48
+0:0:0:0:0:0:0:1 - - [14/Apr/2018:19:09:34 +0530] "GET /Spring-MVC/ HTTP/1.1" 200 614 http-bio-8081-exec-2 9
+0:0:0:0:0:0:0:1 - - [14/Apr/2018:19:09:37 +0530] "GET /Spring-MVC/register HTTP/1.1" 200 1751 http-bio-8081-exec-2 80
+0:0:0:0:0:0:0:1 - - [14/Apr/2018:19:10:02 +0530] "POST /Spring-MVC/display-home HTTP/1.1" 200 614 http-bio-8081-exec-5 37
