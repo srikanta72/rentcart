@@ -33,6 +33,7 @@ public class LoginController {
 	@RequestMapping("/login")
 	public String loginPage(Model model) {
 		model.addAttribute("login", new Login());
+		System.out.println("loginpage");
 		return "login";
 	}
 
